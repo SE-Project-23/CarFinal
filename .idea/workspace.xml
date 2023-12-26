@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="2709247c-cb96-4d46-ae87-7a7dd62f4849" name="Changes" comment="#CarProject">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +38,7 @@
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -52,6 +54,10 @@
       <workItem from="1703084487211" duration="891000" />
       <workItem from="1703086137896" duration="404000" />
       <workItem from="1703086563093" duration="830000" />
+      <workItem from="1703111523380" duration="231000" />
+      <workItem from="1703111776818" duration="7082000" />
+      <workItem from="1703369886699" duration="497000" />
+      <workItem from="1703563262808" duration="4541000" />
     </task>
     <task id="LOCAL-00001" summary="#CarProject">
       <option name="closed" value="true" />
